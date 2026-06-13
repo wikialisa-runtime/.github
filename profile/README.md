@@ -4,7 +4,7 @@
 
 ### 🌟 What is OSSN?
 
-OSSN is designed to be simple, extensible, and scalable. Whether you're building a private community, a niche network, or a public social platform — OSSN gives you the tools to get started quickly.
+OSSN is designed to be simple, extensible, and scalable. Whether you're building a private community, a niche network, or a public social platform. OSSN gives you the tools to get started quickly.
 
 - 🛠️ **Built with PHP**
 - 🧩 **Modular architecture** – Extend functionality with components and themes
@@ -35,4 +35,4 @@ Need help or want to share your OSSN project?
 - 🧰 [Components & Themes](https://www.opensource-socialnetwork.org/download)
 - 🐛 [Report Bugs / Submit Issues](https://github.com/opensource-socialnetwork/opensource-socialnetwork/issues)
 
-Let’s build the future of open, private, and community-driven social networks — together! 🌍
+Let’s build the future of open, private, and community-driven social networks together! 🌍
